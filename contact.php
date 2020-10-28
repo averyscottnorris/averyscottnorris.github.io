@@ -1,4 +1,7 @@
 <?php
+
+// This file modified from https://www.freecontactform.com/form-guides/html-email-form
+
 if (isset($_POST['Email'])) {
 
     // EDIT THE 2 LINES BELOW AS REQUIRED
